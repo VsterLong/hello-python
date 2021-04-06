@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+
+###
+# Author: LongZhx
+# Date: 2021-04-06
+# Function: Win10 Nat Config
+###
+
 import socket
 import os
 import time
